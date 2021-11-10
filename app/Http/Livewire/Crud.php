@@ -5,6 +5,7 @@ namespace App\Http\Livewire;
 use Livewire\Component;
 use App\Models\Student;
 
+
 class Crud extends Component
 {
     public $students, $name, $email, $mobile, $student_id;
