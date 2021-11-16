@@ -15,8 +15,23 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
+        <style type="text/css">
+            .min-h-screen {
+                background-color: #1D2026;
+            }
+        </style>
+
+
     </head>
     <body>
+        <nav class="navbar navbar-light bg-light" style="background-color: #f30606; padding: 0 15px; height: 80px; line-height: 80px;">
+            <a  href="/" style= "color: white;
+            padding: 2px 25px;
+            text-align: center;
+            text-decoration: none;">
+              Fast Post
+            </a>
+        </nav>
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
         </div>
