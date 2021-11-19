@@ -1,0 +1,34 @@
+{
+ "data": [
+  {
+   "date": "26 Nov 2020, 11:37:28 AM",
+   "status": "Item delivered",
+   "location": "Pusat POS Laju Bandar Dato' Onn"
+  },
+  {
+   "date": "26 Nov 2020, 11:32:04 AM",
+   "status": "Item out for delivery",
+   "location": "Pusat POS Laju Bandar Dato' Onn"
+  },
+  {
+   "date": "25 Nov 2020, 11:11:04 PM",
+   "status": "Consignment dispatch out from Transit Office",
+   "location": "HUB Parcel Domestik Shah Alam"
+  },
+  {
+   "date": "25 Nov 2020, 10:32:54 PM",
+   "status": "Item processed",
+   "location": "HUB Parcel Domestik Shah Alam"
+  },
+  {
+   "date": "25 Nov 2020, 07:39:00 PM",
+   "status": "Item dispatched out",
+   "location": "Pusat POS Laju Pelabuhan Klang @PO Pelabuhan Klang"
+  },
+  {
+   "date": "25 Nov 2020, 06:16:23 PM",
+   "status": "Item picked up",
+   "location": "Pusat POS Laju Pelabuhan Klang @PO Pelabuhan Klang"
+  }
+ ]
+}
